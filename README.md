@@ -6,7 +6,7 @@ This dataset contains 8732 labeled sound excerpts (<=4s) of urban sounds from 10
 
 Download the dataset from : https://urbansounddataset.weebly.com/download-urbansound8k.html
 
-Demonstaration:
+Demonstration:
 
 Input: Some random street music file
 ![image](https://github.com/user-attachments/assets/f739ee4c-4cc3-47d8-bdb9-0bb12abcac2d)
